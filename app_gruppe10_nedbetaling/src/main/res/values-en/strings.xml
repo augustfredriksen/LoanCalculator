@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oblig2Nedbetaling</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="Year">Years</string>
+    <string name="Terminbelop">Term Amount</string>
+    <string name="Renter">Interrest rate</string>
+    <string name="Avdrag">Deduction</string>
+    <string name="Restgjeld">Outstanding</string>
+    <string name="Annuity_loan_checked">Annuity loan checked</string>
+    <string name="Serial_loan_checked">Serial loan checked</string>
+    <string name="Visibility">Visibility</string>
+    <string name="nok">nok</string>
+    <string name="Term">Term</string>
+    <string name="_1_12">1–12</string>
+    <string name="Term_amount">Term amount</string>
+    <string name="interest">Interest</string>
+    <string name="Interest">Interest</string>
+    <string name="Outstanding">Outstanding</string>
+    <string name="App_title">Oblig2Bank</string>
+    <string name="Annuity_loan">Annuity loan</string>
+    <string name="Serial_loan">Serial loan</string>
+    <string name="loan_amount">Loan Amount</string>
+    <string name="check_your_loan">CHECK YOUR LOAN</string>
+    <string name="welcome">welcome</string>
+    <string name="downpayment">repayment</string>
+</resources>
